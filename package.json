@@ -1,0 +1,22 @@
+{
+  "name": "my-todos",
+  "version": "1.0.0",
+  "description": "Simple Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuriKuri/my-todos.git"
+  },
+  "author": "Theo Pack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuriKuri/my-todos/issues"
+  },
+  "homepage": "https://github.com/FuriKuri/my-todos#readme",
+  "dependencies": {
+    "meow": "^3.1.0"
+  }
+}
