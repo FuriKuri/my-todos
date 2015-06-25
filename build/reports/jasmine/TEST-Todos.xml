@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Todos" errors="0" tests="4" failures="0" time="0.006" timestamp="2015-06-25T20:23:12">
+  <testcase classname="Todos" name="A new todo list is empty" time="0.004"></testcase>
+  <testcase classname="Todos" name="A todo list has a name" time="0.001"></testcase>
+  <testcase classname="Todos" name="Items can be added to a todo list" time="0.001"></testcase>
+  <testcase classname="Todos" name="Items can be removed from a todo list" time="0"></testcase>
+</testsuite>
+</testsuites>
